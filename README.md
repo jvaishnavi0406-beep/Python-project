@@ -104,7 +104,8 @@ Status: ✅ Great job! You’re within your daily calorie limit, you can eat fas
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/jvaishnavi0406-beep/Python-project
+cd Python-project
 
 3️⃣ Run the Script
 python tracker.py
